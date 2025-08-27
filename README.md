@@ -29,6 +29,12 @@ Optional
 pip install -r requirements.txt.
 ```
 
+## 📄 requirements.txt
+
+```js
+currencyapicom
+requests
+```
 
 Add your CurrencyAPI key inside currency_converter.py:
 
