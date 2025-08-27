@@ -106,5 +106,11 @@ You need a valid API key from CurrencyAPI
 
 Free plans have limits (250 requests/month at the time of writing).
 
+
+## code source ☺️☺️👇
+
+[code source](https://github.com/kodjoballo/currency_converter/blob/main/currency_converter.py)
+
+
    
 
